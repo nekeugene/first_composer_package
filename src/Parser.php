@@ -8,6 +8,7 @@ namespace nekrasov\parser;
 class Parser implements ParserInterface
 {
 
+    // Небольшие правки в проекте
     /**
      * @param string $url
      * @param string $tag
