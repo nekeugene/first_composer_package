@@ -1,5 +1,5 @@
 {
-    "name": "eugene/my_composer_package",
+    "name": "neeugene/my_composer_package",
     "description": "This is my first composer package",
     "type": "library",
     "require": {
