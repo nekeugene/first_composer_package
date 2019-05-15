@@ -1,21 +1,15 @@
 {
-    "name": "lukesky/composer-example-package",
-    "description": "Example project",
+    "name": "eugene/my_composer_package",
+    "description": "This is my first composer package",
     "type": "library",
     "require": {
-        "php": "^7.0"
+        "php": "^7.3"
     },
     "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Victor Zinchenko",
-            "email": "zinchenko.us@gmail.com"
-        }
-    ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "lukesky\\parser\\": "src/"
+            "nekrasov\\parser\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }

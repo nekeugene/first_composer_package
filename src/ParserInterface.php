@@ -1,6 +1,6 @@
 <?php
 
-namespace lukesky\parser;
+namespace nekrasov\parser;
 
 /**
  * @author Victor Zinchenko <zinchenko.us@gmail.com>
